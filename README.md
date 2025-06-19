@@ -1,4 +1,4 @@
-# RAG_Documentos_PDF
+
 # Aplicação RAG com Llama 3.3
 
 Este projeto utiliza o Llama 3.8b localmente para construir uma aplicação **RAG (Recuperação Aumentada por Geração)** que permite **conversar com seus documentos**. A interface de usuário é criada com Streamlit.
