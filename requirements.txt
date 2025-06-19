@@ -1,0 +1,8 @@
+streamlit
+llama-index
+llama-index-llms-ollama
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+sentence-transformers
+pypdf
+python-dotenv
